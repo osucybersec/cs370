@@ -1,0 +1,9 @@
+---
+title: start_here
+category: misc
+score: 100
+description: |
+  For every challenge you will submit a string (the flag) which will be
+  formatted like this: cs370_flag{sample_flag}. This is just a getting started
+  challenge. Follow the hints below to identify the flag.
+  Hint: The flag for this challenge is the name of the challenge.
