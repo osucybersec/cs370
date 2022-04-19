@@ -23,7 +23,7 @@ docker run -it --rm cs370_kali
 
 5. Run the Docker image with the `cs370` directory mounted.
 ```
-docker run -it -rm -v $PWD:/cs370 cs370_kali
+docker run -it --rm -v $PWD:/cs370 cs370_kali
 ```
 > you should see all the contents of this folder/repo at `/cs370` in the container. The folder is read-write on both host and the container.
 
