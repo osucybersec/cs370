@@ -1,0 +1,8 @@
+---
+title: password_easy
+category: password cracking
+score: 100
+description: |
+  We found a password dump: [user_passwordmd5.txt](user_passwordmd5.txt)
+  What's the admin password?
+  Hint: rockyou.txt
