@@ -1,0 +1,9 @@
+---
+title: password_medium
+category: password cracking
+score: 200
+description: |
+  We found two interesting files: [/etc/passwd](etc_passwd) and [/etc/shadow](etc_shadow)
+  What's the super_user password?
+  Hint 1: fasttrack.txt
+  Hint 2: the user always appends 2 digits to the end of the password
