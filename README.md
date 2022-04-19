@@ -26,3 +26,8 @@ docker run -it --rm cs370_kali
 docker run -it -rm -v $PWD:/cs370 cs370_kali
 ```
 > you should see all the contents of this folder/repo at `/cs370` in the container. The folder is read-write on both host and the container.
+
+6. Get the latest set of challenge files.
+```
+git pull
+```
