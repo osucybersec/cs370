@@ -2,4 +2,6 @@
 title: password_hard
 category: password cracking
 score: 300
-description: All we have is a data dump [dump.dat](./dump.dat)
+description: |
+  All we have is a data dump [dump.dat](./dump.dat)
+  Hint: do it twice
