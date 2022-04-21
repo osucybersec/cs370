@@ -4,4 +4,5 @@ category: password cracking
 score: 300
 description: |
   All we have is a data dump [dump.dat](./dump.dat)
+  Can you find the password?
   Hint: do it twice
