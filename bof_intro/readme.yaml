@@ -1,0 +1,10 @@
+---
+title: bof_intro
+category: buffer overflow
+score: 100
+description: |
+  Follow along this to solve the challenge
+  https://ctf101.org/binary-exploitation/buffer-overflow/
+  Hint:
+  - [source](./bof_intro)
+  - [exploit script](./exploit-remote.py)
