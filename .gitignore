@@ -2,3 +2,4 @@ solve
 .gdb*
 peda*
 exploit_*
+core
