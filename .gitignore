@@ -1,1 +1,4 @@
 solve
+.gdb*
+peda*
+exploit_*
