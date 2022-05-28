@@ -1,0 +1,7 @@
+---
+title: bof_intro
+category: buffer overflow
+score: 150
+description: |
+  - [source](./bof_easy)
+  - [binary](./bof_easy_sanitized)
