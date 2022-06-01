@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main() {
+    setvbuf(stdout, NULL, _IONBF, 0);
     int secret = 0xdeadbeef;
     char name[100] = {0};
     printf("Hi, Whats your name!\n");

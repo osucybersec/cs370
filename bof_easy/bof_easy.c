@@ -19,6 +19,7 @@ void say_hi() {
 }
 
 int main() {
+    setvbuf(stdout, NULL, _IONBF, 0);
     say_hi();
     return 0;
 }
